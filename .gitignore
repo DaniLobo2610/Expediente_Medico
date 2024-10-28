@@ -1,0 +1,76 @@
+*.user
+*.suo
+*.sln.docstates
+ 
+# Archivos de compilación
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+ 
+# Paquetes NuGet
+*.nupkg
+packages/
+ 
+# Archivos de configuración
+*.config
+ 
+# Archivos generados por el sistema
+*.cache
+*.log
+*.msi
+*.exe
+*.dll
+*.pdb
+*.tmp
+*.csv
+ 
+# Archivos de publicación
+*.Publish.xml
+ 
+# Directorios de Visual Studio
+.vs/
+ 
+# Archivos de depuración y perfiles
+*.pidb
+*.svclog
+*.scc
+*.dotCover
+ 
+# Archivos de Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+ 
+# Archivos de Test
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+ 
+# Archivos de configuración de Azure
+*.azurePubxml
+*.pubxml
+*.publishsettings
+ 
+# Archivos de Node.js
+node_modules/
+ 
+# Archivos de paquetes
+*.jar
+*.war
+*.ear
+ 
+# Archivos temporales de Office
+~$*
+ 
+# Otros
+*.orig
+*.bak
+*.swp
+*.err
+*.orig
+.DS_Store
+Thumbs.db
+tiene menú contextual
+No puedes enviar mensajes porque no eres un miembro del chat.
+tiene menú contextual
